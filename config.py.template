@@ -1,0 +1,6 @@
+KEY = 
+SECRET = 
+DEBUG =
+CREDENTIALS = [
+    {"username": "", "password": "", "role": ""},
+]
